@@ -35,13 +35,9 @@ To use the DGloxinia type the following commands in Termux:
 To use the application, type in the following commands in GNU/Linux terminal.
 
 `sudo apt install git`
-
 `git clone https://github.com/MVPxGloxinia/DDoS-Gloxinia.git`
-
 `cd DDoS-Gloxinia`
-
 `$ ls`
-
 `$ python3 DGloxinia.py` OR `python2 DGloxinia.py`
 
 ## For Windows
@@ -78,5 +74,5 @@ Thanks.
 
 ●🖥MAC
 
-# Modified by @MVPxGloxinia 
+# Modified by @MVPxGloxinia
 
